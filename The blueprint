@@ -1,0 +1,20 @@
+WHO-COVID-19-global-data.xlsx
+
+
+Components:
+
+-----> Filled(choropleth) Map showing total count of Covid-19 cases
+and deaths for each of the countries. Map can be created by dragging Country
+dimension into the view and New cases measure into the color Mark.
+
+------> line charts showing daily Covid-19 count for all countries for the
+entire spectrum of data. 
+
+-------> line charts showing daily cumulative (Running Total) Covid -19
+count for all countries for the entire spectrum of data. 
+
+-------> a stacked bar chart showing weekly Covid-19 count for all
+regions for the entire spectrum of data
+
+The final result is as shown:
+https://public.tableau.com/shared/K22DXSCT9?:display_count=n&:origin=viz_share_link
